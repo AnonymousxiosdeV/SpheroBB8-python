@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Emacs rope
+.ropeproject/
+
+# Emacs backup files
+*~
+
+# Sound files
+sounds/
